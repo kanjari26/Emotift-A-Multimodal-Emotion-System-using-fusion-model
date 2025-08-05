@@ -1,4 +1,4 @@
-# Emotift-A-Multimodal-Emotion-System-using-fusion-model
+# Emotify-A-Multimodal-Emotion-System-using-fusion-model
 This work introduces EmotiFy, a multimodal emotion recognition system based on deep learning 
 that employs facial and speech modalities to effectively recognize human emotions. As opposed 
 to conventional unimodal approaches which make use of facial expressions or speech alone, 
